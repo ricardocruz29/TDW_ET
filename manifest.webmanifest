@@ -4,7 +4,13 @@
   "description": "Progressive Web App that was result of a testing of converting Omnifood into a PWA.",
   "icons": [
     { "src": "img/favicon-192.png", "type": "image/png", "sizes": "192x192" },
-    { "src": "img/favicon-512.png", "type": "image/png", "sizes": "512x512" }
+    { "src": "img/favicon-512.png", "type": "image/png", "sizes": "512x512" },
+    {
+      "src": "img/maskable_icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "all maskable"
+    }
   ],
   "start_url": "https://omnifood-ricardo-pwa.netlify.app/",
   "display": "fullscreen",
