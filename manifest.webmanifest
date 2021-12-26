@@ -9,11 +9,11 @@
       "src": "img/maskable_icon.png",
       "type": "image/png",
       "sizes": "192x192",
-      "purpose": "all maskable"
+      "purpose": "maskable"
     }
   ],
   "start_url": "https://omnifood-ricardo-pwa.netlify.app/",
-  "display": "fullscreen",
+  "display": "standalone",
   "theme_color": "#e67e22",
   "background_color": "#e67e22"
 }
