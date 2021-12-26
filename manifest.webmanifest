@@ -1,6 +1,13 @@
 {
+  "name": "Omnifood PWA",
+  "short_name": "Omnifood",
+  "description": "Progressive Web App that was result of a testing of converting Omnifood into a PWA.",
   "icons": [
     { "src": "img/favicon-192.png", "type": "image/png", "sizes": "192x192" },
     { "src": "img/favicon-512.png", "type": "image/png", "sizes": "512x512" }
-  ]
+  ],
+  "start_url": "https://omnifood-ricardo-pwa.netlify.app/",
+  "display": "fullscreen",
+  "theme_color": "#e67e22",
+  "background_color": "#e67e22"
 }
